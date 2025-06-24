@@ -132,4 +132,6 @@ O dataset inclui colunas como:
 
 ## Agradecimentos
 À **Alura Latam** e à **Oracle** pelo conhecimento compartilhado através do programa **[ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
+![badge](https://github.com/user-attachments/assets/eeb4996f-2432-4e67-87e7-54b961c4fc64)
+
 
