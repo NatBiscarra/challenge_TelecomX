@@ -64,7 +64,7 @@ A seguir, apresentamos dois gráficos que ilustram a distribuição da variável
 
 | Distribuição Absoluta e Percentual |
 |-----------------------|
-| ![churn_barras](img/churn_barras.png) | 
+| ![evasao_clientes](https://github.com/user-attachments/assets/330517ce-5b39-4680-a199-10e5031a2277)| 
 
 > 📌 Os gráficos acima revelam que cerca de **26,6% dos clientes saíram da empresa**, enquanto **73,4% permaneceram**.
 
